@@ -1,6 +1,6 @@
 <div class="parent">
   <div class="child">
-     <img src="Assets/img_466.png">
+     <img src="Assets/Image_20250307_2048.png" height="200" width="300">
   </div>
 </div>
 
